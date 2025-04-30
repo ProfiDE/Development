@@ -1,0 +1,19 @@
+VULNERABILITY:
+	NAME: Sample Vulnerability ;Required
+  DESC: This is a sample vulnerability.
+  CVE: 2050-0000
+  AUTHER:
+		NAME: ProfiDE ;Required
+    EMAIL: mail@vulner.develop
+    WEBSITE: https://github.com/ProfiDE/
+		DONATE: justcryptowalletaddress
+---
+      
+Blabla! This is sample.
+      
+```php
+  <?php
+	echo 'hacked';
+```
+
+So it is hacked :)
